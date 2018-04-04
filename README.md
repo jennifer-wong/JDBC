@@ -1,2 +1,2 @@
 # JDBC
-Java program that executes SQL queries
+This Java program executes SQL queries on a database.
