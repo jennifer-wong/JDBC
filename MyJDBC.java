@@ -1,10 +1,3 @@
-/*****************************************************/
-/* CS31A - Summer 2017                               */
-/* HW3: JDBC                                         */
-/* Student Name: Jennifer Wong                       */
-/* SID: 11211711                                     */
-/*****************************************************/
-
 package dbms.jen;
 import java.io.IOException;
 import java.sql.*;
